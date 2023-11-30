@@ -1,0 +1,2 @@
+class Wilding < ApplicationRecord
+end
